@@ -1,0 +1,34 @@
+_repo: The-Daughter-of-Heaven_47218
+contributor:
+  translator:
+    agent_name: Davis, Ruth Helen
+    gutenberg_agent_id: '44198'
+    url: http://www.gutenberg.org/2009/agents/44198
+creator:
+  authors:
+  - agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+  - agent_name: Gautier, Judith
+    birthdate: 1845
+    deathdate: 1917
+    gutenberg_agent_id: '8006'
+    url: http://www.gutenberg.org/2009/agents/8006
+    wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
+description: ''
+gutenberg_issued: '2014-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Daughter of Heaven
+url: http://www.gutenberg.org/ebooks/47218
