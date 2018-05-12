@@ -1,9 +1,13 @@
 _repo: The-Daughter-of-Heaven_47218
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Davis, Ruth Helen
     gutenberg_agent_id: '44198'
     url: http://www.gutenberg.org/2009/agents/44198
+covers:
+- cover_type: archival
+  image_path: 47218-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Loti, Pierre
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8006
     wikipedia: http://fr.wikipedia.org/wiki/Judith_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47218#The-Daughter-of-Heaven
 gutenberg_issued: '2014-10-28'
 gutenberg_type: Text
 identifiers:
